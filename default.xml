@@ -1,5 +1,5 @@
 <manifest>
   <remote name="github" fetch="https://github.com"/>
   <default revision="refs/heads/master" remote="github" sync-j="4"/>
-  <project name="trevorassaf/gpio14" remote="github" path="gpio14"/>
+  <project name="trevorassaf/gpio14" remote="github" path="code/gpio14"/>
 </manifest>
