@@ -4,7 +4,7 @@
 
   <!-- My projects -->
   <project name="trevorassaf/gpio14" remote="github" path="code/gpio14"/>
-  <project name="trevorassaf/rpi-x-tools" remote="github" path="code/rpi-x-tools"/>
+  <project name="trevorassaf/rpi-x-tools" remote="github" path="build/toolchains/rpi-x-tools"/>
 
   <!-- Third party projects -->
   <project name="google/googletest" remote="github" path="code/googletest"/>
