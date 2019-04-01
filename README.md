@@ -1,1 +1,1 @@
-# Manifest Git Repository for the Organic Dump project #
+# Manifest Git Repository for the Organic Dump Client Project #
