@@ -3,8 +3,9 @@
   <default revision="refs/heads/master" remote="github" sync-j="4"/>
 
   <!-- My projects -->
-  <project name="trevorassaf/gpio14" remote="github" path="code/gpio14"/>
-  <project name="trevorassaf/rpi-x-tools" remote="github" path="build/toolchains/rpi-x-tools"/>
+  <project name="trevorassaf/gpio14" remote="github" path="code/repo/gpio14"/>
+  <project name="trevorassaf/gpio14" remote="github" path="code/repo/organic-dump-client-application"/>
+  <project name="trevorassaf/rpi-x-tools" remote="github" path="build/repo/toolchains/rpi-x-tools"/>
 
   <!-- Third party projects -->
   <project name="google/googletest" remote="github" path="external/repo/googletest"/>
