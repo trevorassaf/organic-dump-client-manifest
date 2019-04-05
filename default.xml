@@ -8,6 +8,8 @@
   <project name="trevorassaf/rpi-x-tools" remote="github" path="build/toolchains/rpi-x-tools/repo"/>
 
   <!-- Third party projects -->
+  <project name="gflags/gflags" remote="github" path="external/gflags/repo"/>
+  <project name="google/glog" remote="github" path="external/glog/repo"/>
   <project name="google/googletest" remote="github" path="external/googletest/repo"/>
   <project name="openssl/openssl" remote="github" path="external/openssl/repo"/>
 </manifest>
