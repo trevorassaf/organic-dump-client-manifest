@@ -1,5 +1,7 @@
 <manifest>
-  <remote name="github" fetch="git@github.com"/>
+  <!-- Initialize with the following command -->
+  <!-- repo init -u "ssh://git@github.com/trevorassaf/organic-dump-client-manifest" -->
+  <remote name="github" fetch="ssh://git@github.com"/>
   <default revision="refs/heads/master" remote="github" sync-j="4"/>
 
   <!-- My projects -->
