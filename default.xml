@@ -1,6 +1,9 @@
 <manifest>
   <!-- Initialize with the following command -->
   <!-- repo init -u "ssh://git@github.com/trevorassaf/organic-dump-client-manifest" -->
+
+  <!-- Push to repo within project with the follwing command  -->
+  <!-- git push github HEAD:master  -->
   <remote name="github" fetch="ssh://git@github.com"/>
   <default revision="refs/heads/master" remote="github" sync-j="4"/>
 
