@@ -21,5 +21,6 @@
   <project name="gflags/gflags" remote="github" path="external/gflags/repo"/>
   <project name="google/glog" remote="github" path="external/glog/repo"/>
   <project name="google/googletest" remote="github" path="external/googletest/repo"/>
+  <project name="protocolbuffers/protobuf" remote="github" path="external/protobuf/repo"/>
   <project name="openssl/openssl" remote="github" path="external/openssl/repo"/>
 </manifest>
