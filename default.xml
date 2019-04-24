@@ -13,6 +13,7 @@
   <!-- Source code -->
   <project name="trevorassaf/gpio14" remote="github" path="code/gpio14/repo"/>
   <project name="trevorassaf/organic-dump-client-application" remote="github" path="code/organic-dump-client-application/repo"/>
+  <project name="trevorassaf/organic-dump-server-application" remote="github" path="code/organic-dump-server-application/repo"/>
 
   <!-- Toolchains -->
   <project name="trevorassaf/rpi-x-tools" remote="github" path="build/toolchains/rpi-x-tools/repo"/>
