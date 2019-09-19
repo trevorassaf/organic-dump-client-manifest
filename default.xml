@@ -15,6 +15,7 @@
   <project name="trevorassaf/organic-dump-client-application" remote="github" path="code/organic-dump-client-application/repo"/>
   <project name="trevorassaf/organic-dump-server-application" remote="github" path="code/organic-dump-server-application/repo"/>
   <project name="trevorassaf/organic-dump-utility-scripts" remote="github" path="code/organic-dump-utility-scripts/repo"/>
+  <project name="trevorassaf/organic-dump-network" remote="github" path="code/organic-dump-network/repo"/>
 
   <!-- Toolchains -->
   <project name="trevorassaf/rpi-x-tools" remote="github" path="build/toolchains/rpi-x-tools/repo"/>
