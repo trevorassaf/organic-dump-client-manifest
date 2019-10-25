@@ -17,6 +17,9 @@
   <project name="trevorassaf/organic-dump-utility-scripts" remote="github" path="code/organic-dump-utility-scripts/repo"/>
   <project name="trevorassaf/organic-dump-network" remote="github" path="code/organic-dump-network/repo"/>
   <project name="trevorassaf/organic-dump-protocols" remote="github" path="code/organic-dump-protocols/repo"/>
+  <project name="trevorassaf/sheetfaced-protocols" remote="github" path="code/sheetfaced-protocols/repo"/>
+  <project name="trevorassaf/sheetfaced-server" remote="github" path="code/sheetfaced-server/repo"/>
+  <project name="trevorassaf/sheetfaced-client" remote="github" path="code/sheetfaced-client/repo"/>
 
   <!-- Toolchains -->
   <project name="trevorassaf/rpi-x-tools" remote="github" path="build/toolchains/rpi-x-tools/repo"/>
