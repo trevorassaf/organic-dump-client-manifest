@@ -25,9 +25,12 @@
   <project name="trevorassaf/rpi-x-tools" remote="github" path="build/toolchains/rpi-x-tools/repo"/>
 
   <!-- Third party projects -->
-  <project name="gflags/gflags" remote="github" path="external/gflags/repo"/>
-  <project name="google/glog" remote="github" path="external/glog/repo"/>
-  <project name="google/googletest" remote="github" path="external/googletest/repo"/>
-  <project name="google/boringssl" remote="github" path="external/boringssl/repo"/>
-  <project name="protocolbuffers/protobuf" remote="github" path="external/protobuf/repo"/>
+  <project name="gflags/gflags" remote="github" path="external/gflags/repo" revision="0b7f8db2c6b1b0b2451da0923a9ab09cc610e8d1" />
+  <!-- custom patch -->
+  <project name="google/glog" remote="github" path="external/glog/repo" revision="ba8a9f6952d04d1403b97df24e6836227751454e" />
+  <project name="google/googletest" remote="github" path="external/googletest/repo" revision="cd17fa2abda2a2e4111cdabd62a87aea16835014" />
+  <project name="google/boringssl" remote="github" path="external/boringssl/repo" revision="8fe1584023006c844816dbf63fb776b7f84b88b3" />
+  <!-- custom patch -->
+  <project name="protocolbuffers/protobuf" remote="github" path="external/protobuf/repo" revision="7efcc0466c31e18842d612b1a70cec3f1c9bfb23" />
+
 </manifest>
