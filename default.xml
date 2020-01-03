@@ -17,6 +17,7 @@
   <project name="trevorassaf/organic-dump-utility-scripts" remote="github" path="code/organic-dump-utility-scripts/repo"/>
   <project name="trevorassaf/organic-dump-network" remote="github" path="code/organic-dump-network/repo"/>
   <project name="trevorassaf/organic-dump-protocols" remote="github" path="code/organic-dump-protocols/repo"/>
+  <project name="trevorassaf/mysql-cpp-prebuilts" remote="github" path="code/mysql-cpp-prebuilts/repo"/>
 
   <!-- Toolchains -->
   <project name="trevorassaf/rpi-x-tools" remote="github" path="build/toolchains/rpi-x-tools/repo"/>
