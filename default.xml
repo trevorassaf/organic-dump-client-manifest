@@ -28,6 +28,7 @@
   <project name="google/glog" remote="github" path="external/glog/repo" revision="ba8a9f6952d04d1403b97df24e6836227751454e" />
   <project name="google/googletest" remote="github" path="external/googletest/repo" revision="cd17fa2abda2a2e4111cdabd62a87aea16835014" />
   <project name="google/boringssl" remote="github" path="external/boringssl/repo" revision="8fe1584023006c844816dbf63fb776b7f84b88b3" />
+  <!-- custom patch? -->
   <project name="mysql/mysql-connector-cpp" remote="github" path="external/mysql-cpp/repo" revision="a916ff66379c2d53c58bd015e14163ff80198fb2" />
   <project name="open-source-parsers/jsoncpp" remote="github" path="external/jsoncpp/repo" revision="90ca694e4697497a8c2bc8c60a9c9f89e7290a10" />
   <!-- custom patch -->
