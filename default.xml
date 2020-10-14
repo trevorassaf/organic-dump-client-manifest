@@ -13,10 +13,11 @@
   <!-- Source code -->
   <project name="trevorassaf/gpio14" remote="github" path="code/gpio14/repo"/>
   <project name="trevorassaf/organic-dump-client-application" remote="github" path="code/organic-dump-client-application/repo"/>
-  <project name="trevorassaf/organic-dump-server-application" remote="github" path="code/organic-dump-server-application/repo"/>
-  <project name="trevorassaf/organic-dump-utility-scripts" remote="github" path="code/organic-dump-utility-scripts/repo"/>
+  <project name="trevorassaf/organic-dump-irrigation-controller" remote="github" path="code/organic-dump-irrigation-controller/repo"/>
   <project name="trevorassaf/organic-dump-network" remote="github" path="code/organic-dump-network/repo"/>
   <project name="trevorassaf/organic-dump-protocols" remote="github" path="code/organic-dump-protocols/repo"/>
+  <project name="trevorassaf/organic-dump-server-application" remote="github" path="code/organic-dump-server-application/repo"/>
+  <project name="trevorassaf/organic-dump-utility-scripts" remote="github" path="code/organic-dump-utility-scripts/repo"/>
   <project name="trevorassaf/mysql-cpp-prebuilts" remote="github" path="code/mysql-cpp-prebuilts/repo"/>
 
   <!-- Toolchains -->
